@@ -1,0 +1,12 @@
+{
+  "name": "stellar-name-key",
+  "version": "1.0.0",
+  "description": "c",
+  "main": "generate.js",
+  "dependencies": {
+    "stellar-sdk": "0.8.0"
+  },
+  "devDependencies": {},
+  "author": "Jaap Vermaire",
+  "license": "MIT"
+}
