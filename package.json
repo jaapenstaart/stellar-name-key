@@ -1,7 +1,7 @@
 {
   "name": "stellar-name-key",
   "version": "1.0.0",
-  "description": "c",
+  "description": "Use this script to generate a Stellar keypair, with a public key ending with a name you provide.",
   "main": "generate.js",
   "dependencies": {
     "stellar-sdk": "0.8.0"
