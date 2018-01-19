@@ -1,7 +1,6 @@
 const StellarSdk = require('stellar-sdk')
 
 this.onmessage = function(e) {
-
   const name = e.data
   const nameLength = name.length
 
