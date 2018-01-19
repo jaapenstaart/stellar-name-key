@@ -4,7 +4,8 @@
   "description": "Use this script to generate a Stellar keypair, with a public key ending with a name you provide.",
   "main": "generate.js",
   "dependencies": {
-    "stellar-sdk": "0.8.0"
+    "stellar-sdk": "0.8.0",
+    "tiny-worker": "^2.1.1"
   },
   "devDependencies": {},
   "author": "Jaap Vermaire",
